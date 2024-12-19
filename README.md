@@ -11,7 +11,6 @@ https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/da
 
 * Public heatlh survey performed in 2015 by the CDC
 * Inlcudes relevant features such as BMI, Age, and General Health Information
-* Dataset already cleaned, which allows for 
 
 ## Feature Engineering:
 
